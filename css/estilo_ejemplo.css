@@ -1,0 +1,31 @@
+/* EL asterisco es para seleccionar todo */
+* {
+    color: red;
+ }
+/* se puede seleccionar directamente la etiqueta*/
+h2{
+   color: blue
+}
+/* se usa "." para seleccionar una clase */
+.textouno {
+   color: chartreuse;
+}
+.formulario {
+   color: orange;
+}
+/* el # se usa para seleccionar el id*/
+#enviar {
+   color: green;
+}
+/* para seleccionar un atributo se copia entre [] */
+[co="parr"] {
+   color: black;
+}
+/*para separar elementos se usa el "span" y se selecciona toda su descendecia*/
+.parra span {
+   color: gold;
+}
+/* :hover es para cambiar el color cuando paso el cursos (DEBE IR JUNTO EL :) */
+h2:hover {
+   color: black;
+}

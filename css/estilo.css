@@ -1,0 +1,36 @@
+.arriba {
+    color: red;
+}
+.tabla {
+    color: darkblue;
+}
+#nombre__tabla {
+    color: rgb(66, 99, 23);
+}
+#edad__tabla {
+    color: rgb(66, 99, 23);
+}
+#ciudad__tabla {
+    color: rgb(66, 99, 23);
+}
+#sexo__tabla {
+    color: rgb(66, 99, 23);
+}
+.formulario__cuerpo {
+    color: rgb(100, 46, 8);
+}
+.todotexto {
+    color: maroon;
+}
+#titulo__texto1 {
+    color: blue;
+}
+#titulo__texto2 {
+    color: rgb(88, 9, 55);
+}
+#titulo__texto3 {
+    color: chartreuse;
+}
+h4 {
+    color: rgb(73, 133, 201);
+}
